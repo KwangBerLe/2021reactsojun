@@ -1,5 +1,5 @@
 //일반 라이브러리 import 방법
-import _ from "lodash";
+import _ from 'lodash';
 
 const arr = _.fill(Array(10), 4)
 console.log(arr);
